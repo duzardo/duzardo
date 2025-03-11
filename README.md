@@ -3,7 +3,7 @@
 [![LinkedIn](`https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white`)](https://www.linkedin.com/in/eduardo-neves-554755240/)
 
 ### Tecnologias que uso
-[![Python](`https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white`)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PostgreSQL](`https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white`)](https://www.postgresql.org/)
 [![Linux](`https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black`)](https://www.linux.org/)
 [![Flask](`https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white`)](https://flask.palletsprojects.com/en/stable/)
